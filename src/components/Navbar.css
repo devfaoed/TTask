@@ -1,0 +1,16 @@
+.link{
+    text-align: center;
+}
+
+.p{
+    display: inline-block;
+    color: #fff;
+    background: #1ebba3;
+    padding: 10px 20px;
+    border: 2px solid #099983;
+    text-decoration: none;
+    font: 14px Arial, sans-serif;
+    margin: 30px 0 0 0;
+}
+
+

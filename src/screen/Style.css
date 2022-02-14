@@ -1,0 +1,22 @@
+.drap{
+    text-align: left;
+    border: black ridge 1px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 25rem;
+    padding-left: 10px;
+    display: inline-block;
+    background: #fff;
+    height: 20rem;
+}
+.drup{
+    text-align: center;
+}
+.input{
+    margin: 20px 0 0 550px;
+    height: 30px;
+    border-radius: 4px;
+}
+input{
+    width: 500px;
+}

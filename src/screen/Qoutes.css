@@ -1,0 +1,12 @@
+.drap{
+    text-align: left;
+    border: black ridge 1px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 25rem;
+    padding-left: 10px;
+    display: inline-block;
+}
+.drup{
+    text-align: center;
+}
