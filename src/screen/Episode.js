@@ -1,5 +1,5 @@
 import "./Style.css";
-import episode from "../db/Episode/Episode";
+import episode from "../../../db/Episode/Episode";
 import React, { Component } from "react";
 import SearchBox from "./SearchBox";
 

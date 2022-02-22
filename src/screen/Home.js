@@ -1,5 +1,5 @@
 import "./Home.css";
-import characters from '../db/Character/Character';
+import characters from '../../../db/Character/Character';
 
 function List(props) {
   return <div className='props'>

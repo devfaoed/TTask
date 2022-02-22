@@ -1,5 +1,5 @@
 import "./Style.css";
-import qoutes from "../db/Qoutes/Qoutes";
+import qoutes from "../../../db/Qoutes/Qoutes";
 import React, { Component } from "react";
 import SearchBox from "./SearchBox";
 

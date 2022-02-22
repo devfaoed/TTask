@@ -1,5 +1,5 @@
 import "./Style.css";
-import characters from "../db/Character/Character";
+import characters from "../../../db/Character/Character";
 import React, { Component } from "react";
 import SearchBox from "./SearchBox";
 

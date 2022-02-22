@@ -1,5 +1,5 @@
 import "./Style.css";
-import death from "../db/Death/Deaths";
+import death from "../../../db/Death/Deaths";
 import React, { Component } from "react";
 import SearchBox from "./SearchBox";
 
