@@ -1,3 +1,7 @@
+# Bad Breaking App
+
+the website is maily for giving report about the news of people thier details and source of dealth i.e how they are killed
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
